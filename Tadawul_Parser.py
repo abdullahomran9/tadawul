@@ -9,5 +9,5 @@
 
 from Stock import stockscreaper
 from Divid import divdscraper
-from TASI import TASI
+from TASI import TASI ,TASI2
 
